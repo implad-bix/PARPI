@@ -3,6 +3,7 @@ You can download the compressed file ​​PARPI.zip​​ through the release l
 After extracting it, ensure all files have the necessary permissions for use.
 
 Before using PARPI, please ensure that PyTorch is installed, which can be done via Mamba:
+
 mamba install pytorch -c pytorch.
 
 Usage:
