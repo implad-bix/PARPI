@@ -2,6 +2,8 @@
 You can download the compressed file ​​PARPI.zip​​ through the release link (https://github.com/implad-bix/PARPI/releases/tag/PARPI). 
 After extracting it, ensure all files have the necessary permissions for use.
 
+You can download a set of test data through this link to test PARPI: https://github.com/implad-bix/PARPI/releases/tag/Testing_data_for_PARPI.
+
 Before using PARPI, please ensure that PyTorch is installed, which can be done via Mamba:
 
 mamba install pytorch -c pytorch.
